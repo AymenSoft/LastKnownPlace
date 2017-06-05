@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LastKnownPlace</string>
+
+    <!--Maps JAVA-->
+    <string name="maps_alretquit_title">GPS Activation</string>
+    <string name="maps_alertquit_message">you need to activate gps</string>
+    <string name="maps_alertquit_yes">settings</string>
+    <string name="maps_alertquit_no">no</string>
+
+</resources>
